@@ -1,0 +1,13 @@
+{
+    "background": "#1e1e1e",
+    "text": "#ffffff",
+    "button_bg": "#2d2d2d",
+    "accent": "#3a86ff",
+    "sidebar_bg": "#252525",
+
+    "sidebar_width": 260,
+
+    "button_height": 48,
+    "icon_size": 22,
+    "font_size": 13
+}
