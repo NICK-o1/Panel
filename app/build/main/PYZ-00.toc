@@ -1,4 +1,4 @@
-('C:\\Users\\nicho\\OneDrive\\Desktop\\app\\build\\main\\PYZ-00.pyz',
+('D:\\app\\build\\main\\PYZ-00.pyz',
  [('__future__',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
@@ -189,9 +189,7 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\bisect.py',
    'PYMODULE'),
-  ('buttons',
-   'C:\\Users\\nicho\\OneDrive\\Desktop\\app\\buttons.py',
-   'PYMODULE'),
+  ('buttons', 'D:\\app\\buttons.py', 'PYMODULE'),
   ('bz2',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\bz2.py',
@@ -1283,9 +1281,7 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\shutil.py',
    'PYMODULE'),
-  ('sidebar',
-   'C:\\Users\\nicho\\OneDrive\\Desktop\\app\\sidebar.py',
-   'PYMODULE'),
+  ('sidebar', 'D:\\app\\sidebar.py', 'PYMODULE'),
   ('signal',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\signal.py',
@@ -1326,9 +1322,7 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\sysconfig.py',
    'PYMODULE'),
-  ('system_info',
-   'C:\\Users\\nicho\\OneDrive\\Desktop\\app\\system_info.py',
-   'PYMODULE'),
+  ('system_info', 'D:\\app\\system_info.py', 'PYMODULE'),
   ('tarfile',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\tarfile.py',
@@ -1341,7 +1335,7 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\textwrap.py',
    'PYMODULE'),
-  ('theme', 'C:\\Users\\nicho\\OneDrive\\Desktop\\app\\theme.py', 'PYMODULE'),
+  ('theme', 'D:\\app\\theme.py', 'PYMODULE'),
   ('threading',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\\Lib\\threading.py',
